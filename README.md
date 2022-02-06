@@ -29,5 +29,5 @@ Flask
 
 ## App idea:
 ```
-App created according to the Udemy course by Ardit Sulce.
+App created according to the Udemy lesson by Ardit Sulce.
 ```
