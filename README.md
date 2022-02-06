@@ -7,12 +7,19 @@ Atom
 
 ## Databases used in the project
 ```
-PostgreSQL and SQLAlchemy tool
+1. PostgreSQL (local database)
+2. SQLAlchemy (library for operating with PostgreSQL database)
+3. MySQL (database created inside pythonanywhere.com server)
 ```
 
 ## Framework used for deploying the Web App
 ```
 Flask
+```
+
+## Web hosting service
+```
+[PythonAnywhere](https://www.pythonanywhere.com/)
 ```
 
 ## Web application link
