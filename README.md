@@ -1,4 +1,5 @@
 # Collecting-height
+Web application for collecting height data
 
 ## Desktop application that I used for coding part
 ```
